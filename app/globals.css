@@ -24,4 +24,25 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: underline;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px;
+  background-color: white;
+  color: black;
 }
